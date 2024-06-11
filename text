@@ -1,0 +1,80 @@
+<!-- team section start -->
+
+	<section class="team" id="team">
+		<h1 class="heading">meet our team</h1>
+		<p class="paragraph">
+			</p>
+
+		<div class="box-container">
+			<div class="box">
+				<img src="images/me.jpg">
+
+				<div class="content">
+					<div>
+						<h3>Mike Ngetich</h3>
+						<span>Manager</b></span>
+
+						<div class="icon">
+							<a href="#" class="fab fa-facebook-f"></a>
+							<a href="#" class="fab fa-instagram"></a>
+							<a href="#" class="fab fa-twitter"></a>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="box">
+				
+				<img src="images/me.jpg">
+
+				<div class="content">
+					<div>
+						<h3>MIKE KIBET</h3>
+						<span>ZooKeeper</span>
+
+						<div class="icon">
+							<a href="#" class="fab fa-facebook-f"></a>
+							<a href="#" class="fab fa-instagram"></a>
+							<a href="#" class="fab fa-twitter"></a>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="box">
+				<img src="images/me.jpg">
+
+				<div class="content">
+					<div>
+						<h3>Mike</h3>
+						<span>Veterinarian</span>
+
+						<div class="icon">
+							<a href="#" class="fab fa-facebook-f"></a>
+							<a href="#" class="fab fa-instagram"></a>
+							<a href="#" class="fab fa-twitter"></a>
+						</div>
+					</div>
+				</div>
+			</div>
+
+		</div>
+	</section>
+
+	<!-- team section ends -->s
+
+
+
+
+
+
+
+
+
+	<a href="#" class="btn-download">
+					<i class='bx bxs-cloud-download' ></i>
+					<span class="text">Download PDF</span>
+				</a>
+
+
+				<input type="password" name="text" class="input" pattern="\d+" placeholder="Numbers only or shake">

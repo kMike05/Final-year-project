@@ -1,0 +1,59 @@
+.containers .right
+{
+	float: right;
+	width : 50%;
+	height:400px;
+	box-sizing: border-box; }
+.formBoxs
+{
+	 width: 100%;
+	 padding: 15px 20px;
+	 box-sizing:border-box;
+	 height:400px;
+	 background:#fff;
+	
+}
+.formBoxs p
+{
+	margin: 0;
+	padding: 0;
+	font-weight: bold;
+	color : #045f27;
+}
+.formBoxs h4
+{
+	margin: 0;
+	padding: 0;
+	font-weight: bold;
+	color : #045f27;
+	text-align: center;
+}
+.formBoxs input
+{	
+	width: 100%;
+	margin-bottom: 20px;
+}
+.formBoxs input[type="text"],
+.formBoxs input[type="password"]
+
+{
+	border: none;
+	border-bottom: 2px solid #045f27;
+	outline: none;
+	height: 30px;
+}
+.formBoxs select
+
+{
+	border: none;
+	border-bottom: 2px solid #045f27;
+	width: 100%;
+	outline: none;
+	height: 20px;
+}
+.formBoxs input[type="text"]:focus,
+.formBoxs input[type="password"]:focus
+
+{
+	border-bottom: 2px solid #262626;
+}

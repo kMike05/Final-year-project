@@ -1,0 +1,1 @@
+Payment received!!Click <a href='http://localhost/FinalP/reset-password.php?token=$token'>here</a> to redirect  to home page.
